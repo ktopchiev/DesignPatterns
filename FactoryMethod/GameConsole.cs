@@ -1,4 +1,4 @@
-﻿using FactoryMethod.Contracts;
+﻿using FactoryMethod.Abstracts;
 
 namespace FactoryMethod
 {

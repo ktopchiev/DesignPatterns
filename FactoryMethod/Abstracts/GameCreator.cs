@@ -1,4 +1,6 @@
-﻿namespace FactoryMethod.Contracts
+﻿using FactoryMethod.Contracts;
+
+namespace FactoryMethod.Abstracts
 {
     public abstract class GameCreator
     {
