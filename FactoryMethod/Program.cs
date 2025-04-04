@@ -1,10 +1,17 @@
-﻿namespace FactoryMethod
+﻿using FactoryMethod.FactoryMethod;
+
+namespace FactoryMethod
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            new GameConsole().Start();
+            /*Factory method*/
+
+            //new GameConsole().Start();
+
+
+
         }
     }
 }

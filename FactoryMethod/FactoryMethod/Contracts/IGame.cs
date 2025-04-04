@@ -1,4 +1,4 @@
-﻿namespace FactoryMethod.Contracts
+﻿namespace FactoryMethod.FactoryMethod.Contracts
 {
     public interface IGame
     {

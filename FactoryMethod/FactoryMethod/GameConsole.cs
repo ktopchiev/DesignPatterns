@@ -1,6 +1,6 @@
-﻿using FactoryMethod.Abstracts;
+﻿using FactoryMethod.FactoryMethod.Abstracts;
 
-namespace FactoryMethod
+namespace FactoryMethod.FactoryMethod
 {
     public class GameConsole
     {

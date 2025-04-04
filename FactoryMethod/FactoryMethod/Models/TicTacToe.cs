@@ -1,6 +1,6 @@
-﻿using FactoryMethod.Contracts;
+﻿using FactoryMethod.FactoryMethod.Contracts;
 
-namespace FactoryMethod.Models
+namespace FactoryMethod.FactoryMethod.Models
 {
     public class TicTacToe : IGame
     {
