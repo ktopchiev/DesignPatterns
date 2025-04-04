@@ -1,6 +1,7 @@
-﻿using FactoryMethod.FactoryMethod.Abstracts;
+﻿using Creational.FactoryMethod.Abstracts;
+using Creational.FactoryMethod.Creators;
 
-namespace FactoryMethod.FactoryMethod
+namespace Creational.FactoryMethod
 {
     public class GameConsole
     {

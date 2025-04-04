@@ -1,7 +1,8 @@
-﻿using FactoryMethod.FactoryMethod.Abstracts;
-using FactoryMethod.FactoryMethod.Contracts;
+﻿using Creational.FactoryMethod.Abstracts;
+using Creational.FactoryMethod.Contracts;
+using Creational.FactoryMethod.Models;
 
-namespace FactoryMethod.FactoryMethod.Creators
+namespace Creational.FactoryMethod.Creators
 {
     public class TetrisCreator : GameCreator
     {

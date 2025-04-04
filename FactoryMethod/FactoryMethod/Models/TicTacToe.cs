@@ -1,6 +1,6 @@
-﻿using FactoryMethod.FactoryMethod.Contracts;
+﻿using Creational.FactoryMethod.Contracts;
 
-namespace FactoryMethod.FactoryMethod.Models
+namespace Creational.FactoryMethod.Models
 {
     public class TicTacToe : IGame
     {

@@ -1,6 +1,6 @@
-﻿using FactoryMethod.FactoryMethod.Contracts;
+﻿using Creational.FactoryMethod.Contracts;
 
-namespace FactoryMethod.FactoryMethod.Abstracts
+namespace Creational.FactoryMethod.Abstracts
 {
     public abstract class GameCreator
     {
