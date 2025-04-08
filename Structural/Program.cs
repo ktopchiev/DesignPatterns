@@ -1,10 +1,15 @@
-﻿namespace _2.Structural
+﻿using Structural.Facade;
+
+namespace _2.Structural
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            /** Facade **/
+
+            Facade facade = new Facade();
+            facade.UseComplexSystem();
         }
     }
 }
