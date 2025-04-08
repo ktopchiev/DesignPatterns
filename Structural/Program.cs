@@ -1,4 +1,5 @@
 ﻿using Structural.Facade;
+using Structural.Proxy;
 
 namespace _2.Structural
 {
@@ -8,8 +9,14 @@ namespace _2.Structural
         {
             /** Facade **/
 
-            Facade facade = new Facade();
-            facade.UseComplexSystem();
+            //Facade facade = new Facade();
+            //facade.UseComplexSystem();
+
+            /** Proxy **/
+
+            //HttpService service = new HttpService();
+            //HttpServiceProxy proxy = new HttpServiceProxy(service);
+            //proxy.Get("https://some.url");
         }
     }
 }
